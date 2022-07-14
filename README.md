@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## I’m Builder, a learner and an explorer. 🌏🌍🌎
+
 <!--
 **Builder296/Builder296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
